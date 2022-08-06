@@ -1,5 +1,6 @@
 *~
 *.swp
+*.bak
 zig-cache/
 answers/
 patches/healed/
